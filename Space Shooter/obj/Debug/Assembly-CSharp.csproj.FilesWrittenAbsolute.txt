@@ -1,0 +1,17 @@
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/obj/Debug/Assembly-CSharp.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/UnityEngine.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/UnityEditor.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Tom/Documents/Projects/Unity Tutorials/Space Shooter/Temp/bin/Debug/Mono.Cecil.Mdb.dll
