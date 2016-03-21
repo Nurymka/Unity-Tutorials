@@ -9,7 +9,7 @@ public class BGScroller : MonoBehaviour {
 	private Vector3 startPosition;
 
 	void Start () {
-		startPosition = transform.position;
+		startPosition = transform.position; 
 	}
 
 	void Update () {
